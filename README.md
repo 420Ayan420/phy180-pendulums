@@ -1,1 +1,1 @@
-# phy180-pendulums
+# PHY180 Pendulum Project MAIN

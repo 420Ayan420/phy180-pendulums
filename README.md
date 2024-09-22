@@ -13,5 +13,5 @@ Will fill out as time allows.
 ### Lucas Scatter Plot
 ![scatterLUCAS](https://github.com/user-attachments/assets/0582900c-0e9f-4546-ae02-f08517d1fb44)
 
-### Data
-<a href="check_in_1/check_in_1_data.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+## Data, Data, Data
+https://docs.google.com/spreadsheets/d/1RXKC7No5bcaMnGplrO3C8fdGt_40yZ0d6ssSLeS2YwU/edit?usp=sharing

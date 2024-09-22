@@ -34,7 +34,7 @@ def quadratic(t, a, b, c):
 # Now load the data from the file. The file should be in the same directory as this Python code.
 # Some chance you will need an absolute path: "C:\\Users\\Brian\\Python\\mydata_fake.txt"
 
-filename="checkin1L.txt"
+filename="checkin1.txt"
 x, y, xerr, yerr = bb.load_data(filename)
 
 # This time, let's use every single possible option available to bb.plot_fit()

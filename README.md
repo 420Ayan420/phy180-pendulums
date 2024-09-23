@@ -4,8 +4,8 @@ Will fill out as time allows.
 ### Ayan Graph
 ![graphAYAN](https://github.com/user-attachments/assets/56bf1a55-7888-4389-a261-54cef3a84c7b)
 
-### Lucas Graph
-![graphLUCAS](https://github.com/user-attachments/assets/ab6db2c7-918e-43db-b36b-85c277a1efc3)
+### Lucas Graph (x-error bars rectified)
+![graphLUCASNEW](https://github.com/user-attachments/assets/677a078e-d0ad-43b6-b14d-2d45fe81d698)
 
 ### Ayan Scatter Plot
 ![scatterAYAN](https://github.com/user-attachments/assets/c9ae66e0-16b1-4b5c-be29-d777766752bb)

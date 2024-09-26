@@ -7,6 +7,9 @@ Will fill out as time allows.
 ### Lucas Graph (x-error bars rectified)
 ![graphLUCASNEW](https://github.com/user-attachments/assets/677a078e-d0ad-43b6-b14d-2d45fe81d698)
 
+### Lucas Graph (y-error bars rectified)
+![image](https://github.com/user-attachments/assets/89ceb153-bb40-4e82-8411-6e6ea8d929a5)
+
 ### Ayan Scatter Plot
 ![scatterAYAN](https://github.com/user-attachments/assets/c9ae66e0-16b1-4b5c-be29-d777766752bb)
 

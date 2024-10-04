@@ -15,6 +15,8 @@ The data file should be in the same directory as this python file.
 The data should be in the order:
 x_data y_data x_uncertainty y_uncertainty
 """
+
+
 import scipy.optimize as optimize
 import numpy as np
 import matplotlib.pyplot as plt
@@ -26,8 +28,8 @@ def load_data(filename):
 
 
 def plot_fit(my_func, xdata, ydata, xerror=None, yerror=None, init_guess=None, font_size=14,
-             xlabel="Initial Angle (rad)", ylabel="Pendulum Period (s)", 
-             title="Pendulum Period vs. Starting Angle"):    
+             xlabel="Independant Variable (units)", ylabel="Dependent Variable (units)", 
+             title="My Graph Needs a Better Title"):    
     plt.rcParams.update({'font.size': font_size})
     plt.rcParams['figure.figsize'] = 10, 9
     # Change the fontsize of the graphs to make it easier to read.
@@ -102,4 +104,3 @@ def plot_fit(my_func, xdata, ydata, xerror=None, yerror=None, init_guess=None, f
 
     return None
     
-

@@ -4,6 +4,12 @@ Will fill out as time allows.
 ### Ayan Graph
 ![graphAYAN](https://github.com/user-attachments/assets/56bf1a55-7888-4389-a261-54cef3a84c7b)
 
+### Ayan Graph (x-error bars rectified)
+![graphAYANNEW](https://github.com/user-attachments/assets/86316d19-cba2-478f-8a4c-3d2d15448218)
+
+### Ayan Graph (y-error bars rectified)
+![graphAYANNEWEST](https://github.com/user-attachments/assets/d496bc6c-5133-478d-8baf-76d3c7317767)
+
 ### Lucas Graph (x-error bars rectified)
 ![graphLUCASNEW](https://github.com/user-attachments/assets/677a078e-d0ad-43b6-b14d-2d45fe81d698)
 
